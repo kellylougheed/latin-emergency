@@ -1,6 +1,84 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
+body {
+  background: #85e0e0;
+}
+
 .clear {
   clear: both;
+}
+
+body {
+  font-family: 'Helvetica Neue', arial;
+  font-weight: 100;
+}
+
+header {
+  position: relative;
+  height: 250px;
+  background: url("http://www.kellylougheed.com/images/backgrounds/temple.jpg");
+  background-size: cover;
+  background-position: center;
+  border-bottom: 1px solid #ccf2ff;
+}
+
+.titles {
+  background: rgba(0, 0, 0, .7);
+  padding: 10px;
+  color: #66d9ff;
+  position: absolute;
+  bottom: 0;
+  width: auto;
+}
+
+.title {
+  font-size: 4em;
+  letter-spacing: 2px;
+}
+
+.red {
+  color: red;
+  font-style: italic;
+}
+
+.subtitle {
+  font-size: 2em;
+}
+
+.links {
+  float: right;
+  margin-top: 10px;
+}
+
+a {
+  background: rgba(0, 0, 0, .7);
+  letter-spacing: 2px;
+  color: #ccf2ff;
+  padding: 8px;
+  margin-right: 20px;
+  border: 1px solid #ccf2ff;
+}
+
+a:hover {
+  background: rgba(255, 255, 255, .7);
+  text-decoration: none;
+  color: #000000;
+  border: 1px solid #red;
+}
+
+h1 {
+  font-family: 'Helvetica Neue', arial;
+  font-weight: 100;
+  color: #0f3d3d;
+}
+
+h2 {
+  font-family: 'Helvetica Neue', arial;
+  font-weight: 100;
+  color: #0f3d3d;
+}
+
+.content {
+  padding: 20px;
 }

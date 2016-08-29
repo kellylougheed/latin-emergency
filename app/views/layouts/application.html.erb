@@ -9,21 +9,21 @@
 <body>
 
 <header>
-  <div class="col-xs-3">
-    LOGO
-  </div>
-  <div class="col-xs-4">
-    Last-minute exercises for your class
-  </div>
-  <div class="col-xs-5">
-    <%= link_to 'Contribute', '#' %> -
-    <%= link_to 'How to Use', '#' %>
-  </div>
+    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 titles">
+      <span class="title">latin<span class="red">emergency</span></span><br>
+      <span class="subtitle">last-minute exercises for your class</span>
+    </div>
+    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 links text-right">
+      <%= link_to 'Contribute', '#' %> -
+      <%= link_to 'How to Use', '#' %>
+    </div>
 </header>
 
-<br class="clear">
+<div class="content">
 
 <%= yield %>
+
+</div>
 
 </body>
 </html>
