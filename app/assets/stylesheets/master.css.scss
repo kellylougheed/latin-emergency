@@ -89,6 +89,10 @@ h2 {
   color: #0f3d3d;
 }
 
+hr {
+  visibility: hidden;
+}
+
 a.another, .form-button {
   background: #99e6e6;
   color: #000000;
@@ -152,5 +156,8 @@ li {
   }
   a {
     margin-right: 10px;
+  }
+  hr {
+    display: none;
   }
 }
