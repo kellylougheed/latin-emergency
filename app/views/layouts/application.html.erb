@@ -16,7 +16,8 @@
     </div>
     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 links text-right">
       <%= link_to 'Home', root_path %>
-      <%= link_to 'Contribute', new_activity_path %>
+          <!-- Button trigger modal -->
+      <%= link_to 'Contribute', '#', data: {toggle: 'modal', target: '#myModal'} %>
       <%= link_to 'How to Use', about_path %>
     </div>
     <div class="button hidden">
@@ -25,6 +26,30 @@
 </header>
 
 <div class="text-center hidden"><button name="showHeader">Show header</button></div>
+
+  <!-- Modal -->
+  <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+          <h2>Contribute an exercise</h2>
+        </div>
+        <div class="modal-body">
+          <div class="form">
+            <%= simple_form_for Activity.new do |f| %>
+              <%= f.input :exercise %>
+              <%= f.input :level %> <small>(e.g. Latin I, Latin III, intermediate, etc)</small>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="form-button form-clear" data-dismiss="modal">Close</button>
+          <%= f.submit 'Submit', class: 'form-button' %>
+          <% end %>
+        </div>
+      </div>
+    </div>
+  </div>
 
 <div class="container">
   <% if flash[:error].present? %>

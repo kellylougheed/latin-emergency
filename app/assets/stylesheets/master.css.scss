@@ -80,7 +80,8 @@ div.button {
   margin-top: 10px;
 }
 
-a {
+a, a:active, a:visited {
+  text-decoration: none;
   background: rgba(0, 0, 0, .6);
   letter-spacing: 2px;
   color: #ccf2ff;
@@ -106,16 +107,25 @@ h2 {
   color: #0f3d3d;
 }
 
-a.another {
+a.another, .form-button {
   background: #99e6e6;
   color: #000000;
   font-size: 1.35em;
+  letter-spacing: 2px;
   padding: 5px;
   border: 1px solid #000000;
 }
 
-a.another:hover {
+.form-clear {
   background: #ffffff;
+}
+
+a.another:hover, .form-button:hover {
+  background: #ffffff;
+}
+
+.form-clear:hover {
+  background: #cccccc;
 }
 
 a.contact {

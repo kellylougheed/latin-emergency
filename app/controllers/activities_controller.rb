@@ -3,10 +3,6 @@ class ActivitiesController < ApplicationController
     @activity = Activity.order("RANDOM()").first
   end
 
-  def new
-    @activity = Activity.new
-  end
-
   def create
     @activity = Activity.create(activity_params)
     if @activity.invalid?
