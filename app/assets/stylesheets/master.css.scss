@@ -1,7 +1,7 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
 @import url(http://fonts.googleapis.com/css?family=Roboto:100);
-@import url(http://fonts.googleapis.com/css?family=Roboto:200);
+@import url(http://fonts.googleapis.com/css?family=Roboto:300);
 
 body {
   background: #ccf2ff;
@@ -13,7 +13,7 @@ body {
 
 body {
   font-family: 'Roboto', arial;
-  font-weight: 100;
+  font-weight: 300;
 }
 
 header {
@@ -33,6 +33,7 @@ header {
   bottom: 0;
   width: auto;
   font-family: 'Roboto', arial;
+  font-weight: 100;
 }
 
 .title {
@@ -43,7 +44,7 @@ header {
 
 .orange {
   color: #ff6600;
-  font-weight: 200;
+  font-weight: 100;
 }
 
 .subtitle {
@@ -51,16 +52,23 @@ header {
 }
 
 button {
-  color: #ff6600;
-  background: rgba(0, 0, 0, .6);
-  border: 1px solid #ff6600;
+  color: #000000;
+  background: #ccf2ff;
+  border: 1px solid #ccf2ff;
   letter-spacing: 2px;
   margin: 5px;
 }
 
 button:hover {
   color: #000000;
-  background: rgba(255, 255, 255, .6);
+  border: 1px solid #000000;
+  background: #ffffff;
+}
+
+div.button {
+  position: absolute;
+  bottom: 0;
+  right: 0;
 }
 
 .hidden {
@@ -129,6 +137,15 @@ div.form {
 
 div.form input {
   font-size: 1.1em;
+}
+
+div.about {
+  font-size: 1.25em;
+  margin-bottom: 50px;
+  line-height: 28px;
+}
+li {
+  margin-bottom: 15px;
 }
 
 @media (max-width: 767px) {

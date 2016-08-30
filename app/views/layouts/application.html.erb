@@ -13,12 +13,14 @@
     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 titles">
       <span class="title">Latin<span class="orange">Emergency</span></span><br>
       <span class="subtitle">last-minute exercises for your class</span><br>
-      <div class="text-center hidden"><button name="hideHeader">Hide this header!</button></div>
     </div>
     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 links text-right">
       <%= link_to 'Home', root_path %>
       <%= link_to 'Contribute', new_activity_path %>
-      <%= link_to 'How to Use', '#' %>
+      <%= link_to 'How to Use', about_path %>
+    </div>
+    <div class="button hidden">
+    <button name="hideHeader">Hide</button>
     </div>
 </header>
 

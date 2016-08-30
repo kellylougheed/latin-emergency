@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
   root 'activities#index'
+  get 'about', to: 'activities#about'
 
   resources :activities
   
