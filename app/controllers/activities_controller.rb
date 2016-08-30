@@ -8,7 +8,10 @@ class ActivitiesController < ApplicationController
   end
 
   def create
-    Activity.create(activity_params)
+    @activity = Activity.create(activity_params)
+    if @activity.invalid?
+      flash[:error] = 'Please enter a valid exercise between 10 and 300 characters.'
+    end
     redirect_to root_path
   end
 
