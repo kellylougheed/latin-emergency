@@ -157,6 +157,9 @@ div.about {
 li {
   margin-bottom: 15px;
 }
+::selection {
+  background-color: #ff6600;
+}
 
 @media (max-width: 767px) {
   .title {
