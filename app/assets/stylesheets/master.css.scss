@@ -4,7 +4,7 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto:200);
 
 body {
-  background: #85e0e0;
+  background: #ccf2ff;
 }
 
 .clear {
@@ -98,11 +98,16 @@ h2 {
   color: #0f3d3d;
 }
 
-.another {
+a.another {
   background: #99e6e6;
   color: #000000;
-  border: 1px solid #000000;
   font-size: 1.35em;
+  padding: 5px;
+  border: 1px solid #000000;
+}
+
+a.another:hover {
+  background: #ffffff;
 }
 
 a.contact {
