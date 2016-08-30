@@ -50,6 +50,23 @@ header {
   font-size: 2em;
 }
 
+button {
+  color: #ff6600;
+  background: rgba(0, 0, 0, .6);
+  border: 1px solid #ff6600;
+  letter-spacing: 2px;
+  margin: 5px;
+}
+
+button:hover {
+  color: #000000;
+  background: rgba(255, 255, 255, .6);
+}
+
+.hidden {
+  display: none;
+}
+
 .links {
   float: right;
   margin-top: 10px;
@@ -81,6 +98,33 @@ h2 {
   color: #0f3d3d;
 }
 
-.content {
-  padding: 20px;
+.another {
+  background: #99e6e6;
+  color: #000000;
+  border: 1px solid #000000;
+  font-size: 1.35em;
+}
+
+a.contact {
+  background: none;
+  border: none;
+  color: grey;
+  padding: 0px;
+  margin: 0px;
+}
+
+a.contact:hover {
+  color: #85e0e0;
+}
+
+@media (max-width: 767px) {
+  .title {
+    font-size: 3em;
+  }
+  .subtitle {
+    font-size: 1.5em;
+  }
+  a {
+    margin-right: 10px;
+  }
 }

@@ -2,6 +2,7 @@
 <html>
 <head>
   <title>Latin Emergency</title>
+  <script src="https://use.fontawesome.com/ee14bb1f23.js"></script>
   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
   <%= csrf_meta_tags %>
@@ -11,19 +12,35 @@
 <header>
     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 titles">
       <span class="title">Latin<span class="orange">Emergency</span></span><br>
-      <span class="subtitle">last-minute exercises for your class</span>
+      <span class="subtitle">last-minute exercises for your class</span><br>
+      <div class="text-center hidden"><button name="hideHeader">Hide this header!</button></div>
     </div>
     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 links text-right">
-      <%= link_to 'Contribute', '#' %> -
+      <%= link_to 'Home', '#' %>
+      <%= link_to 'Contribute', '#' %>
       <%= link_to 'How to Use', '#' %>
     </div>
 </header>
 
-<div class="content">
+<div class="text-center hidden"><button name="showHeader">Show header</button></div>
+
+<div class="container">
 
 <%= yield %>
 
+<br><br><br>
+<div class="text-center"><button class="another">Generate another</button></div>
+
 </div>
+
+  <div class="footer">
+    <div class="container">
+      <p class="text-muted text-center">Made by Kelly Lougheed.   <a class="contact" href="mailto:hello@kellylougheed.com?Subject=Hello"><i class="fa fa-envelope-o" aria-hidden="true"></i></a>
+  <a class="contact" href="https://www.linkedin.com/in/kelly-lougheed-ba147b121" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+    <a class="contact" href="https://github.com/kellylougheed" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+    <a class="contact" href="http://www.twitter.com/kellylougheed" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></p>
+    </div>
+  </div>
 
 </body>
 </html>
