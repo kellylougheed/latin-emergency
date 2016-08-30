@@ -24,18 +24,15 @@ header {
   border-bottom: 1px solid #ffffff;
 }
 
-.titles {
+.title {
   background: rgba(0, 0, 0, .6);
-  padding: 10px;
+  padding: 1px;
   color: #66d9ff;
   position: absolute;
   bottom: 0;
   width: auto;
   font-family: 'Roboto', arial;
   font-weight: 100;
-}
-
-.title {
   font-size: 4em;
   letter-spacing: 2px;
   text-transform: lowercase;
@@ -44,10 +41,6 @@ header {
 .orange {
   color: #ff6600;
   font-weight: 100;
-}
-
-.subtitle {
-  font-size: 2em;
 }
 
 button {
@@ -62,16 +55,6 @@ button:hover {
   color: #000000;
   border: 1px solid #000000;
   background: #ffffff;
-}
-
-div.button {
-  position: absolute;
-  bottom: 0;
-  right: 0;
-}
-
-.hidden {
-  display: none;
 }
 
 .links {
@@ -162,7 +145,7 @@ li {
 
 @media (max-width: 767px) {
   .title {
-    font-size: 3em;
+    font-size: 2em;
   }
   .subtitle {
     font-size: 1.5em;
