@@ -1,5 +1,7 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
+@import url(http://fonts.googleapis.com/css?family=Roboto:100);
+@import url(http://fonts.googleapis.com/css?family=Roboto:200);
 
 body {
   background: #85e0e0;
@@ -10,7 +12,7 @@ body {
 }
 
 body {
-  font-family: 'Helvetica Neue', arial;
+  font-family: 'Roboto', arial;
   font-weight: 100;
 }
 
@@ -24,22 +26,24 @@ header {
 }
 
 .titles {
-  background: rgba(0, 0, 0, .7);
+  background: rgba(0, 0, 0, .6);
   padding: 10px;
   color: #66d9ff;
   position: absolute;
   bottom: 0;
   width: auto;
+  font-family: 'Roboto', arial;
 }
 
 .title {
   font-size: 4em;
   letter-spacing: 2px;
+  text-transform: lowercase;
 }
 
-.red {
-  color: red;
-  font-style: italic;
+.orange {
+  color: #ff6600;
+  font-weight: 200;
 }
 
 .subtitle {
@@ -52,7 +56,7 @@ header {
 }
 
 a {
-  background: rgba(0, 0, 0, .7);
+  background: rgba(0, 0, 0, .6);
   letter-spacing: 2px;
   color: #ccf2ff;
   padding: 8px;
@@ -61,20 +65,18 @@ a {
 }
 
 a:hover {
-  background: rgba(255, 255, 255, .7);
+  background: rgba(255, 255, 255, .6);
   text-decoration: none;
   color: #000000;
   border: 1px solid #red;
 }
 
 h1 {
-  font-family: 'Helvetica Neue', arial;
   font-weight: 100;
   color: #0f3d3d;
 }
 
 h2 {
-  font-family: 'Helvetica Neue', arial;
   font-weight: 100;
   color: #0f3d3d;
 }
