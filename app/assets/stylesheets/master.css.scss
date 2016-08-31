@@ -3,34 +3,18 @@
 @import url('//fonts.googleapis.com/css?family=Roboto:100,300');
 
 body {
-  background: #ccf2ff;
-}
-
-.clear {
-  clear: both;
-}
-
-body {
+  background: url("http://www.kellylougheed.com/images/backgrounds/stpeters.jpg");
+  background-size: cover;
+  background-position: center;
   font-family: 'Roboto', arial;
   font-weight: 300;
 }
 
-header {
-  position: relative;
-  height: 250px;
-  background: url("http://www.kellylougheed.com/images/backgrounds/temple.jpg");
-  background-size: cover;
-  background-position: center;
-  border-bottom: 1px solid #ffffff;
-}
-
 .title {
-  background: rgba(0, 0, 0, .5);
   padding: 1px;
-  color: #66d9ff;
-  position: absolute;
-  bottom: 0;
-  width: auto;
+  margin: 1px;
+  color: #003366;
+  text-align: center;
   font-family: 'Roboto', arial;
   font-weight: 100;
   font-size: 4em;
@@ -38,63 +22,42 @@ header {
   text-transform: lowercase;
 }
 
-.orange {
-  color: #ff6600;
-  font-weight: 100;
-}
-
-button {
-  color: #000000;
-  background: #ccf2ff;
-  border: 1px solid #ccf2ff;
-  letter-spacing: 2px;
-  margin: 5px;
-}
-
-button:hover {
-  color: #000000;
-  border: 1px solid #000000;
-  background: #ffffff;
-}
-
 .links {
-  float: right;
-  margin-top: 10px;
+  margin: 10px;
+  text-align: center;
 }
 
 a, a:active, a:visited {
+  background: rgba(255, 255, 255, 0);
   text-decoration: none;
-  background: rgba(0, 0, 0, .6);
   letter-spacing: 2px;
-  color: #ccf2ff;
+  color: #003366;
   padding: 8px;
-  margin-right: 20px;
-  border: 1px solid #ccf2ff;
+  margin: 10px;
+  border: 1px solid #003366;
 }
 
 a:hover {
   background: rgba(255, 255, 255, .5);
   text-decoration: none;
-  color: #000000;
-  border: 1px solid #red;
+}
+
+.container {
+  background: rgba(255, 255, 255, .8);
+  margin-top: 100px;
+  width: 60%;
 }
 
 h1 {
   font-weight: 100;
-  color: #0f3d3d;
 }
 
 h2 {
   font-weight: 100;
-  color: #0f3d3d;
-}
-
-hr {
-  visibility: hidden;
 }
 
 a.another, .form-button {
-  background: #99e6e6;
+  background: #66ccff;
   color: #000000;
   font-size: 1.35em;
   letter-spacing: 2px;
@@ -144,20 +107,17 @@ li {
   margin-bottom: 15px;
 }
 ::selection {
-  background-color: #ff6600;
+  background-color: #33ccff;
 }
 
 @media (max-width: 767px) {
   .title {
     font-size: 2em;
   }
-  .subtitle {
-    font-size: 1.5em;
-  }
   a {
     margin-right: 10px;
   }
-  hr {
-    display: none;
+  div.container {
+    width: 80%;
   }
 }
