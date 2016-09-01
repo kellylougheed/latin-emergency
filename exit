@@ -1,0 +1,136 @@
+ id  |                                exercise                                 |  level   |         created_at         |         updated_at         
+-----+-------------------------------------------------------------------------+----------+----------------------------+----------------------------
+   1 | Decline mare, maris, n.                                                 | Latin IB | 2016-08-29 20:00:59.902729 | 2016-08-29 20:00:59.902729
+   2 | Translate: "Labor omnia vicit."                                         | Latin II | 2016-08-30 20:48:20.539351 | 2016-08-30 20:48:20.539351
+   3 | Translate: "Labor me vocat."                                            | Latin I  | 2016-08-30 20:57:11.961843 | 2016-08-30 20:57:11.961843
+   4 | Conjugate facio, facere in the present active indicative                | Latin I  | 2016-08-30 22:35:20.921439 | 2016-08-30 22:35:20.921439
+   5 | Translate: "Nihil me terret."                                           | Latin I  | 2016-08-31 01:10:44.807532 | 2016-08-31 01:10:44.807532
+   6 | Translate: "Saepe nihil cogitas."                                       | Latin I  | 2016-08-31 01:11:04.588409 | 2016-08-31 01:11:04.588409
+   7 | Decline poeta, poetae, m.                                               | Latin I  | 2016-08-31 01:11:54.039784 | 2016-08-31 01:11:54.039784
+   8 | Translate: "Salve, O patria!"                                           | Latin I  | 2016-08-31 01:12:11.059225 | 2016-08-31 01:12:11.059225
+   9 | Translate: "Puellam non vocat."                                         | Latin I  | 2016-08-31 01:12:53.510155 | 2016-08-31 01:12:53.510155
+  10 | Decline together: ager magnus                                           | Latin I  | 2016-08-31 01:13:34.053273 | 2016-08-31 01:13:34.053273
+  11 | Translate: "Debemus de populo Romano cogitare."                         | Latin I  | 2016-08-31 01:14:05.11358  | 2016-08-31 01:14:05.11358
+  12 | Decline consilium, consilii, n.                                         | Latin I  | 2016-08-31 01:16:19.685096 | 2016-08-31 01:16:19.685096
+  13 | Conjugate sum, esse in the present active indicative                    | Latin I  | 2016-08-31 01:16:53.504898 | 2016-08-31 01:16:53.504898
+  14 | Conjugate sum, esse in the imperfect active indicative                  | Latin I  | 2016-08-31 01:17:16.565362 | 2016-08-31 01:17:16.565362
+  15 | Conjugate sum, esse in the future active indicative                     |          | 2016-08-31 01:17:29.881133 | 2016-08-31 01:17:29.881133
+  16 | Conjugate sum, esse in the perfect active indicative                    | Latin IB | 2016-08-31 01:17:48.79952  | 2016-08-31 01:17:48.79952
+  17 | Conjugate voco, vocare in the imperfect active indicative               | Latin I  | 2016-08-31 01:19:04.862385 | 2016-08-31 01:19:04.862385
+  18 | Conjugate maneo, manere in the future active indicative                 | Latin I  | 2016-08-31 01:19:16.938301 | 2016-08-31 01:19:16.938301
+  19 | Conjugate possum, posse in the present active indicative                | Latin I  | 2016-08-31 01:20:59.076454 | 2016-08-31 01:20:59.076454
+  20 | Conjugate possum, posse in the future active indicative                 | Latin I  | 2016-08-31 23:57:52.130099 | 2016-08-31 23:57:52.130099
+  21 | Conjugate possum, posse in the imperfect active indicative              | Latin I  | 2016-08-31 23:58:06.863916 | 2016-08-31 23:58:06.863916
+  22 | Translate: "Sine dis in caelo non possumus esse sani."                  | Latin I  | 2016-08-31 23:59:59.881008 | 2016-08-31 23:59:59.881008
+  23 | Translate: "Patria erat plena virtutum."                                | Latin I  | 2016-09-01 00:00:20.351606 | 2016-09-01 00:00:20.351606
+  24 | Decline together: rex bonus                                             | Latin I  | 2016-09-01 00:00:48.434645 | 2016-09-01 00:00:48.434645
+  25 | Decline together: virtus bona                                           | Latin I  | 2016-09-01 00:01:04.165828 | 2016-09-01 00:01:04.165828
+  26 | Decline together: tempus longum                                         | Latin I  | 2016-09-01 00:01:44.171767 | 2016-09-01 00:01:44.171767
+  27 | Decline together: carmen novum                                          | Latin I  | 2016-09-01 00:02:08.766953 | 2016-09-01 00:02:08.766953
+  28 | Conjugate neco, necare in the future active indicative                  | Latin I  | 2016-09-01 00:02:37.571761 | 2016-09-01 00:02:37.571761
+  29 | Translate: "Erat rex Romanorum."                                        | Latin I  | 2016-09-01 00:03:18.130838 | 2016-09-01 00:03:18.130838
+  30 | Translate: "Otium sine litteris mors est."                              | Latin I  | 2016-09-01 00:03:43.496158 | 2016-09-01 00:03:43.496158
+  31 | Translate: "Nihil sub sole novum."                                      | Latin I  | 2016-09-01 00:04:23.030019 | 2016-09-01 00:04:23.030019
+  32 | Translate: "Nihil sine magno labore vita mortalibus dat."               | Latin I  | 2016-09-01 00:04:48.45015  | 2016-09-01 00:04:48.45015
+  33 | Translate: "Amico meo dabo librum."                                     | Latin I  | 2016-09-01 01:21:07.779987 | 2016-09-01 01:21:07.779987
+  34 | Translate: "Libros meos semper laudabas."                               | Latin I  | 2016-09-01 01:21:47.459901 | 2016-09-01 01:21:47.459901
+  35 | Translate: "Fama erit perpetua."                                        | Latin I  | 2016-09-01 01:22:03.877546 | 2016-09-01 01:22:03.877546
+  36 | Conjugate ago, agere in the present active indicative                   | Latin I  | 2016-09-01 01:22:27.37974  | 2016-09-01 01:22:27.37974
+  37 | Conjugate ago, agere in the future active indicative                    | Latin I  | 2016-09-01 01:22:44.033169 | 2016-09-01 01:22:44.033169
+  38 | Give the imperatives of facio, facere                                   | Latin I  | 2016-09-01 01:23:45.436129 | 2016-09-01 01:23:45.436129
+  39 | Give the imperatives of dico, dicere                                    | Latin I  | 2016-09-01 01:23:57.75802  | 2016-09-01 01:23:57.75802
+  40 | Give the imperatives of duco, ducere                                    | Latin I  | 2016-09-01 01:24:07.242622 | 2016-09-01 01:24:07.242622
+  41 | Conjugate mitto, mittere in the future active indicative                | Latin I  | 2016-09-01 01:24:23.64479  | 2016-09-01 01:24:23.64479
+  42 | Conjugate pono, ponere in the present active indicative                 | Latin I  | 2016-09-01 01:24:50.457028 | 2016-09-01 01:24:50.457028
+  43 | Decline together: frater meus                                           | Latin I  | 2016-09-01 01:25:23.274956 | 2016-09-01 01:25:23.274956
+  44 | Decline together: soror tua                                             | Latin I  | 2016-09-01 01:25:33.242547 | 2016-09-01 01:25:33.242547
+  45 | Conjugate vinco, vincere in the imperfect active indicative             | Latin I  | 2016-09-01 01:26:05.404093 | 2016-09-01 01:26:05.404093
+  46 | Conjugate disco, discere in the present active indicative               | Latin I  | 2016-09-01 01:26:21.087856 | 2016-09-01 01:26:21.087856
+  47 | Conjugate scribo, scribere in the future active indicative              | Latin I  | 2016-09-01 01:26:34.175631 | 2016-09-01 01:26:34.175631
+  48 | Translate: "Numquam periculum sine periculo vincemus."                  | Latin I  | 2016-09-01 01:27:13.56778  | 2016-09-01 01:27:13.56778
+  49 | Translate: "Homines, dum docent, discunt."                              | Latin I  | 2016-09-01 01:27:51.828166 | 2016-09-01 01:27:51.828166
+  50 | Translate: "Ratio me ducet, non fortuna."                               | Latin I  | 2016-09-01 01:28:14.070568 | 2016-09-01 01:28:14.070568
+  51 | Translate: "Sine causa bellum gerere non debemus."                      | Latin I  | 2016-09-01 01:29:11.798449 | 2016-09-01 01:29:11.798449
+  52 | Translate: "Fortunas et agros defendere poterimus."                     | Latin I  | 2016-09-01 01:29:42.898925 | 2016-09-01 01:29:42.898925
+  53 | Decline hic, haec, hoc                                                  | Latin IB | 2016-09-01 01:30:02.57931  | 2016-09-01 01:30:02.57931
+  54 | Decline ille, illa, illud                                               | Latin IB | 2016-09-01 01:30:12.679484 | 2016-09-01 01:30:12.679484
+  55 | Decline iste, ista, istud                                               | Latin IB | 2016-09-01 01:30:29.08927  | 2016-09-01 01:30:29.08927
+  56 | Decline together: patria tota                                           | Latin IB | 2016-09-01 01:31:05.452454 | 2016-09-01 01:31:05.452454
+  57 | Translate: "Solus hunc iuvare potes."                                   | Latin IB | 2016-09-01 01:31:29.312499 | 2016-09-01 01:31:29.312499
+  58 | Translate: "Virtutem illius viri amamus."                               | Latin IB | 2016-09-01 01:32:00.648014 | 2016-09-01 01:32:00.648014
+  59 | Conjugate capio, capere in the imperfect active indicative              | Latin I  | 2016-09-01 01:32:27.763999 | 2016-09-01 01:32:27.763999
+  60 | Conjugate audio, audire in the future active indicative                 | Latin I  | 2016-09-01 01:33:43.941668 | 2016-09-01 01:33:43.941668
+  61 | Give the imperatives of audio, audire                                   | Latin I  | 2016-09-01 01:40:32.009361 | 2016-09-01 01:40:32.009361
+  62 | Give the imperatives of mitto, mittere                                  | Latin I  | 2016-09-01 01:40:56.567574 | 2016-09-01 01:40:56.567574
+  63 | Translate: "Cupiditatem pecuniae fugite!"                               | Latin IB | 2016-09-01 01:42:13.409964 | 2016-09-01 01:42:13.409964
+  64 | Translate: "Officium meum faciam."                                      | Latin IB | 2016-09-01 01:42:45.197733 | 2016-09-01 01:42:45.197733
+  65 | Translate: "Semper magno cum timore incipio dicere."                    | Latin IB | 2016-09-01 01:43:17.864404 | 2016-09-01 01:43:17.864404
+  66 | Translate: "Tempus fugit."                                              | Latin I  | 2016-09-01 01:43:36.983024 | 2016-09-01 01:43:36.983024
+  67 | Decline ego, mei                                                        | Latin IB | 2016-09-01 01:44:19.860716 | 2016-09-01 01:44:19.860716
+  68 | Decline tu, tui                                                         | Latin IB | 2016-09-01 01:44:48.887145 | 2016-09-01 01:44:48.887145
+  69 | Decline is, ea, id                                                      | Latin IB | 2016-09-01 01:45:02.189521 | 2016-09-01 01:45:02.189521
+  70 | Conjugate sentio, sentire in the future active indicative               | Latin IB | 2016-09-01 01:45:35.172435 | 2016-09-01 01:45:35.172435
+  71 | Translate: "Id solum est carum mihi."                                   | Latin IB | 2016-09-01 01:45:58.415702 | 2016-09-01 01:45:58.415702
+  72 | Translate: "Quid facis? Quid cogitas?"                                  | Latin I  | 2016-09-01 01:46:44.07041  | 2016-09-01 01:46:44.07041
+  73 | Translate: "O tempora! O mores!"                                        | Latin I  | 2016-09-01 01:47:01.279381 | 2016-09-01 01:47:01.279381
+  74 | Translate: "Hic vivit, in senatum venit."                               | Latin IB | 2016-09-01 01:47:34.298115 | 2016-09-01 01:47:34.298115
+  75 | Translate: "Ad mortem te ducere debemus."                               | Latin I  | 2016-09-01 01:48:02.688089 | 2016-09-01 01:48:02.688089
+  76 | Translate: "Nihil facimus."                                             | Latin I  | 2016-09-01 01:48:45.954164 | 2016-09-01 01:48:45.954164
+  77 | Translate: "Nobiscum remanere non potes."                               | Latin IB | 2016-09-01 01:49:11.942977 | 2016-09-01 01:49:11.942977
+  78 | Translate: "Fuge nunc et duc tecum amicos tuos."                        | Latin IB | 2016-09-01 01:49:38.866091 | 2016-09-01 01:49:38.866091
+  79 | Conjugate mitto, mittere, misi, missum in the perfect active indicative | Latin IB | 2016-09-01 01:50:22.175682 | 2016-09-01 01:50:22.175682
+  80 | Translate: "Se laudavit."                                               | Latin IB | 2016-09-01 01:51:35.064777 | 2016-09-01 01:51:35.064777
+  81 | Translate: "Caesar se servavit."                                        | Latin IB | 2016-09-01 01:52:03.45305  | 2016-09-01 01:52:03.45305
+  82 | Translate: "Caesar ipse urbem servavit."                                | Latin IB | 2016-09-01 01:52:20.310031 | 2016-09-01 01:52:20.310031
+  83 | Decline civis, civis, m/f.                                              | Latin I  | 2016-09-01 01:52:58.382146 | 2016-09-01 01:52:58.382146
+  84 | Give the Latin numbers for one through ten                              | Latin IB | 2016-09-01 01:53:32.662978 | 2016-09-01 01:53:32.662978
+  85 | Give the Roman numerals for one through ten                             | Latin IB | 2016-09-01 01:53:46.896475 | 2016-09-01 01:53:46.896475
+  86 | Decline together: liber brevis                                          | Latin IB | 2016-09-01 01:54:59.147803 | 2016-09-01 01:54:59.147803
+  87 | Decline together: forma omnis                                           | Latin IB | 2016-09-01 01:55:27.338534 | 2016-09-01 01:55:27.338534
+  88 | Decline together: puella fortis                                         | Latin IB | 2016-09-01 01:55:44.556847 | 2016-09-01 01:55:44.556847
+  89 | Translate: "Quam dulcis est libertas!"                                  | Latin IB | 2016-09-01 01:56:23.825251 | 2016-09-01 01:56:23.825251
+  90 | Translate: "Fortuna fortes adiuvat."                                    | Latin IB | 2016-09-01 01:56:46.596955 | 2016-09-01 01:56:46.596955
+  91 | Translate: "Quam celeris et acris est mens!"                            | Latin IB | 2016-09-01 01:57:05.281483 | 2016-09-01 01:57:05.281483
+  92 | Translate: "Nihil est ab omni parte beatum."                            | Latin IB | 2016-09-01 01:57:38.177491 | 2016-09-01 01:57:38.177491
+  93 | Translate: "Mater omnium bonarum artium sapientia est."                 | Latin IB | 2016-09-01 01:58:14.694549 | 2016-09-01 01:58:14.694549
+  94 | Translate: "Vita est brevis; ars, longa."                               | Latin IB | 2016-09-01 01:58:56.821381 | 2016-09-01 01:58:56.821381
+  95 | Translate: "Est turba poetarum in hac urbe."                            | Latin IB | 2016-09-01 01:59:20.339912 | 2016-09-01 01:59:20.339912
+  96 | Translate: "Difficile est saturam non scribere."                        | Latin IB | 2016-09-01 01:59:43.618189 | 2016-09-01 01:59:43.618189
+  97 | Decline qui, quae, quod                                                 | Latin IB | 2016-09-01 02:00:07.61184  | 2016-09-01 02:00:07.61184
+  98 | Translate: "Salve, bone amice!"                                         | Latin I  | 2016-09-01 02:00:30.277611 | 2016-09-01 02:00:30.277611
+  99 | Translate: "Turbam vita."                                               | Latin I  | 2016-09-01 02:00:50.141204 | 2016-09-01 02:00:50.141204
+ 100 | Conjugate video, videre in the present PASSIVE indicative               | Latin II | 2016-09-01 02:02:16.432463 | 2016-09-01 02:02:16.432463
+ 101 | Conjugate deleo, delere in the future PASSIVE indicative                | Latin II | 2016-09-01 02:02:30.005078 | 2016-09-01 02:02:30.005078
+ 102 | Conjugate moveo, movere in the imperfect PASSIVE indicative             | Latin II | 2016-09-01 02:02:51.704941 | 2016-09-01 02:02:51.704941
+ 103 | Decline flumen, fluminis, n.                                            | Latin I  | 2016-09-01 02:03:12.839161 | 2016-09-01 02:03:12.839161
+ 104 | Translate: "Malum est consilium quod mutari non potest."                | Latin II | 2016-09-01 02:03:48.436584 | 2016-09-01 02:03:48.436584
+ 105 | Translate: "Amor misceri cum timore non potest."                        | Latin II | 2016-09-01 02:04:21.620806 | 2016-09-01 02:04:21.620806
+ 106 | Translate: "Laudatur ab his; culpatur ab illis."                        | Latin II | 2016-09-01 02:04:48.909505 | 2016-09-01 02:04:48.909505
+ 107 | Translate: "Cur pericula mortis timetis?"                               | Latin I  | 2016-09-01 02:05:16.025308 | 2016-09-01 02:05:16.025308
+ 108 | Translate: "Nostra corpora semper mutantur."                            | Latin II | 2016-09-01 02:05:48.710338 | 2016-09-01 02:05:48.710338
+ 109 | Translate: "Id quod fuimus aut sumus, non cras erimus."                 | Latin II | 2016-09-01 02:06:16.182808 | 2016-09-01 02:06:16.182808
+ 110 | Conjugate do, dare, dedi, datum in the perfect active indicative        | Latin IB | 2016-09-01 02:07:15.227409 | 2016-09-01 02:07:15.227409
+ 111 | Conjugate amo, amare, amavi, amatum in the perfect passive indicative   | Latin II | 2016-09-01 02:07:49.064169 | 2016-09-01 02:07:49.064169
+ 112 | Translate: "In quod periculum iactus sum?"                              | Latin II | 2016-09-01 02:09:47.591751 | 2016-09-01 02:09:47.591751
+ 113 | Translate: "Quid ego egi?"                                              | Latin IB | 2016-09-01 02:11:32.294648 | 2016-09-01 02:11:32.294648
+ 114 | Translate: "In qua urbe vivimus?"                                       | Latin II | 2016-09-01 02:13:25.282319 | 2016-09-01 02:13:25.282319
+ 115 | Translate: "Quam civitatem habemus?"                                    | Latin II | 2016-09-01 02:13:40.153841 | 2016-09-01 02:13:40.153841
+ 116 | "Quae scelera videmus?"                                                 | Latin II | 2016-09-01 02:13:53.132759 | 2016-09-01 02:13:53.132759
+ 117 | Translate: "Quem nunc amabis?"                                          | Latin II | 2016-09-01 02:14:23.893642 | 2016-09-01 02:14:23.893642
+ 118 | Decline fructus, fructus, m.                                            | Latin II | 2016-09-01 02:14:45.018194 | 2016-09-01 02:14:45.018194
+ 119 | Decline cornu, cornus, n.                                               | Latin II | 2016-09-01 02:14:56.586097 | 2016-09-01 02:14:56.586097
+ 120 | Decline together: manus dextra                                          | Latin II | 2016-09-01 02:15:13.243103 | 2016-09-01 02:15:13.243103
+ 121 | Translate: "Se a periculis defenderat."                                 | Latin IB | 2016-09-01 02:15:54.339345 | 2016-09-01 02:15:54.339345
+ 122 | Translate: "Multos versus uno spiritu legit."                           | Latin II | 2016-09-01 02:16:20.67227  | 2016-09-01 02:16:20.67227
+ 123 | Translate: "Iste communi sensu caret."                                  | Latin II | 2016-09-01 02:16:42.985908 | 2016-09-01 02:16:42.985908
+ 124 | Translate: "Discede cum mala manu sceleratorum."                        | Latin II | 2016-09-01 02:17:16.106146 | 2016-09-01 02:17:16.106146
+ 125 | Translate: "Magno metu me liberabis, si discedes."                      | Latin II | 2016-09-01 02:17:53.112332 | 2016-09-01 02:17:53.112332
+ 126 | Translate: "Brevi tempore te vincemus."                                 | Latin IB | 2016-09-01 02:18:20.519313 | 2016-09-01 02:18:20.519313
+ 127 | Conjugate audio, audire in the present PASSIVE indicative               | Latin II | 2016-09-01 02:18:44.64698  | 2016-09-01 02:18:44.64698
+ 128 | Translate: "Numquam periculum sine periculo vincitur."                  | Latin II | 2016-09-01 02:19:14.17232  | 2016-09-01 02:19:14.17232
+ 129 | Decline res, rei, f.                                                    | Latin II | 2016-09-01 02:19:56.930538 | 2016-09-01 02:19:56.930538
+ 130 | Decline dies, diei, m.                                                  | Latin II | 2016-09-01 02:20:08.954239 | 2016-09-01 02:20:08.954239
+ 131 | Decline together: spes magna                                            | Latin II | 2016-09-01 02:20:29.131291 | 2016-09-01 02:20:29.131291
+ 132 | Give the participles of verto, vertere, verti, versum                   | Latin II | 2016-09-01 02:20:57.962538 | 2016-09-01 02:20:57.962538
+(132 rows)
+
