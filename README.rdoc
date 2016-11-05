@@ -1,28 +1,19 @@
-== README
+<h1>So You Think You Know Latin</h1>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<b>This educational Latin app was built with Ruby on Rails, HTML, CSS, and Bootstrap.</b>
 
-Things you may want to cover:
+The app generates random Latin exercises to do in class.
 
-* Ruby version
+<h2>Features:</h2>
 
-* System dependencies
+<ul>
+<li> Users can add Latin exercises and specify their level of difficulty.</li><br/>
 
-* Configuration
+<li> Exercises are randomly drawn from the database on page refresh.</li><br/>
 
-* Database creation
+<li> Modal forms are built with Twitter Bootstrap.</li><br/>
 
-* Database initialization
+<li> The data is queried and stored with PostgreSQL.</li><br/>
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+<li> "How to Use" page includes tips for teachers about how to use the app in class.</li><br/>
+</ul>
