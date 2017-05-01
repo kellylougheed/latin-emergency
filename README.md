@@ -4,6 +4,8 @@
 
 The app generates random Latin exercises to do in class.
 
+<img src="http://www.kellylougheed.com/images/projects/latin.png"/>
+
 <h2>Features:</h2>
 
 <ul>
